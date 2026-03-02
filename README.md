@@ -1,3 +1,7 @@
+> **Fork** — [![Last Commit](https://img.shields.io/github/last-commit/stussysenik/Signal-iOS?style=flat-square)]()
+
+---
+
 # Signal iOS
 
 Signal is a free and open source messaging app for simple private communication with friends.
